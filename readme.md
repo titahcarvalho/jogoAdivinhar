@@ -1,1 +1,1 @@
-Jogo simples de introdução ao curso sobre Lógica de programação procedural. Introdução ao comando If e While, e demonstração da biblioteca Math.random. No jogo basta adivinhar qual número foi gerado, de modo aleatório. 
+## Jogo simples de introdução ao curso sobre Lógica de programação procedural. Introdução ao comando If e While, e demonstração da biblioteca Math.random. No jogo basta adivinhar qual número foi gerado, de modo aleatório. 
